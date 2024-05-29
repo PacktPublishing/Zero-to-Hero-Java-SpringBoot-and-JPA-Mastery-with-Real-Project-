@@ -1,0 +1,7 @@
+Author's Github branches which are updated as part of this update:
+
+master branch:
+https://github.com/ranjanpandeysbp/property-management/tree/master
+
+upgrade-to-springboot-3 branch:
+https://github.com/ranjanpandeysbp/property-management/tree/upgrade-to-springboot-3
